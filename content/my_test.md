@@ -1,7 +1,6 @@
 ---
 title: "My_test"
 date: 2022-12-31T23:21:24+08:00
-draft: true
 ---
 
 # Header Test 1
