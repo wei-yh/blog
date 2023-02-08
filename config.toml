@@ -3,7 +3,7 @@ baseURL = "https://wei-yh.github.io/"
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "My Site"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -12,8 +12,8 @@ languageName = "English"
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
+  name = "Wei"
+  email = "zhaowei_x@outlook.com"
   link = ""
 
 # Menu config
